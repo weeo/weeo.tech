@@ -18,4 +18,4 @@ masterブランチにマージされると、Travisが自動的にFirebaseへデ
 
 ### Firebase
 Google が提供する Firebase の ホスティングサービスを利用して、``public``フォルダを公式ホームページとして公開しています。
-
+独自ドメインを無料でSSHでホスティングできるのが最高なので、Firebaseを使います。
